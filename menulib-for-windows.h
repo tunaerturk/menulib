@@ -25,7 +25,7 @@ public:
 			operation = 2;
 			break;
 		default:
-			cout << "Wrong opreation";
+			cout << "Wrong operation";
 			break;
 		}
 	}
